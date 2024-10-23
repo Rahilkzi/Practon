@@ -1,9 +1,0 @@
-
-
-# Logs
-*.log
-
-
-# Ignore the .git folder
-.git/
-.exe
