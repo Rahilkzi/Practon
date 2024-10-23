@@ -6,3 +6,4 @@
 
 # Ignore the .git folder
 .git/
+.exe
